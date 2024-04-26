@@ -1,6 +1,4 @@
-### Hi there 👋
-### ✨SuBin Mok✨
-
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0313043)
 <!--
 **SuBinMok/SuBinMok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuBinMok)](https://github.com/anuraghazra/github-readme-stats)
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0313043)
+
