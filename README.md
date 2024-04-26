@@ -1,5 +1,5 @@
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0313043)
-![Subin profile](http://mazandi.herokuapp.com/api?handle={0313043}&theme=Warm Ruby5)
+![Subin profile](http://mazandi.herokuapp.com/api?handle={0313043}&theme=Warm)
 
 <!--
 **SuBinMok/SuBinMok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
