@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <div align="center"></div>
 -->
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{SuBinMok}?pet-id=651621320444080043" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{SuBinMok}?pet-id=651621320439875742" width="1000" height="120"/>
 </a>
 
 # ✈Subin✈  
