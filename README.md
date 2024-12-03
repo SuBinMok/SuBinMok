@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=venom&color=fffcbd&height=200&section=header&text=Hi%20There&fontSize=50)
 <div align="center"></div>
 -->
- 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{SuBinMok}?pet-id=1" width="1000" height="120"/>
+</a>
 
 # ✈Subin✈  
 ### 🌱 Skils
