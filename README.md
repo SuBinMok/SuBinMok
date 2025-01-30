@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 [![Subin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuBinMok)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0313043)](https://solved.ac/0313043/) -->
 [![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=0313043)](https://solved.ac/0313043/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0313043)](https://solved.ac/0313043/)
